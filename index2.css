@@ -1,0 +1,85 @@
+
+
+body {
+    background-color: rgba(245, 241, 250, 0.966);
+}
+
+
+.icon1 {
+    margin: 25px;
+}
+.raw {
+    color: goldenrod;
+}
+.container {
+    color: black;
+}
+.background-image-container {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    margin: 30px;
+   
+}
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+.col-md-4 {
+    color: black;
+}
+.video {
+    text-align: center;
+    margin: 50px;
+}
+.titre {
+    margin: 25px;
+     background-image: url(./assets/image/hikma.jpg);
+}
+.mor {
+    color: black;
+    background-image: url(./assets/image/hikma.jpg);
+    margin: 5pxs;
+    
+}
+#molahada {
+    margin: 25px;
+    font-style: oblique;
+    background-color: rgb(212, 145, 97);
+.rida {
+    font-size: x-small;
+}
+#taoussi {
+    text-align: center;
+}
+
+    
+h3 {
+    color: chocolate;
+    text-align: center;
+    
+}
+
+}
+.image1 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr 2fr;
+    margin: 25px;
+}
+.image2 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr 1fr 2fr;
+    margin: 25px;
+}
+#tilichargi {
+    border: black;
+    font-style: normal;
+    border: solid black 10px;
+    
+}
+footer {
+    background-color: white;
+}
